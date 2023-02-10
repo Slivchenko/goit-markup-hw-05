@@ -424,7 +424,10 @@ background: var(--accent-color);
    padding-top: 32px;
    padding-bottom: 32px;
    padding-left: 16px;
-   border-bottom: 1px solid #E7E9FC;  
+   border-bottom: 1px solid #E7E9FC;
+   border-left: 0.5px solid #F4F4FD;
+   border-right: 0.5px solid #F4F4FD;;
+
 
 }
 
